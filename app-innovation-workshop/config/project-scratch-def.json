@@ -1,5 +1,16 @@
 {
-  "orgName": "alexander.rich company",
-  "edition": "Developer",
-  "features": []
+  "orgName": "Harvard App Innovation Workshop",
+  "adminEmail": "alexander.rich@salesforce.com",
+  "description": "Harvard SFDO Campfire",
+  "template": "0TTHn000000NSec",
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    }
+  }
 }
